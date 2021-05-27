@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pertamina-piep",
+  "private_key_id": "ed8b3eab08cc505e40bcd98f0ae999f42a0052ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3fUpZqv/uB2bD\n26ZnLd3F/GtzcjfqnrtdoYsa+sQvFu6RD/kU5nUYhBXrqiqC4YG9JLv3CHa3OyxT\nBurAcgZrJOhUQ5fTjPg/NgAR1b9LArp5VOZvXxS9K7P8DRSFwWq1pfqT5LAxlyaa\ng2TmD4Kw9Bvu4IW7z6xuxGH3GFzcdJjsPmiFW+RymgBgj3BFXCNyA8eHgjR+n7Pc\nwQRTMrVXezXK23xUst3mTTIANp1B3gJkcEKDsrfMVyy0RuNQsCsYKAFeY2DPc17n\nAitLcHQmoO9v6CiyBOWqNFETJhDlXn3AsB3ZbgGtMo5cFLwnOm7+dUb5Enjqp2C7\nJmEYNb2FAgMBAAECgf9wrPRWk6bjjtliYe5pGgAsRM9OMFG9N+YYvpDmVz45vnD3\nPzeXpAJM+cIHfE1/OgL7RbF2n/rKbw4bRnTzlHACwtotPlkx3Wg3Wd5ISdpWuW4l\n908SZGFBbHJ4SSotIrzTSef0ZdLLJ8qS28AYfwUInWg1+QhQcGs27DvtAtYGXKOP\nfMBVYCdVesm4hqmQyJ4upbbuY/WM/2cgEFnH8sfW7I0cajN1US5xoN2aAKyOlnv8\niVWqgbwgH/MyIjQ/4fXilLZUCR8VdTlRcjK/JVoxS2sAWxDcehafLz7QP0pz8hTe\nMEFE2ApHnKtDputMDaly/4NRMmDk3onqgkYR7wkCgYEA/sJOuBiz1ZJJLP1bPV1b\nCzIcaModbPj8CG1gEkwdhHcKrwAzEMGYrXyV25g1jV2DY2C8t/G3AQvRNoqFB6V8\ncs1JpS1EnSY8tcWlTyhK+bAyQaVWsGOSbK8+fOsC1n3R2xRA04VphAVZzXaoX9CY\nc992+9YLd2gugSKevUJRbyMCgYEAuGIbhV35hn4oiPY75efb3YnC+C07u3w77xPV\nwIgSZASwdPIItuZDB65zCeAkoS3pmbLYTSPoKFyMu8ACi3hDuDHMXDJqm3W9k/t5\ndHWsz9ag92/lWqtp10xZDBRk3OjIgOTd8ts/GPAfQqPz9OopaykxoxLweYFV22JB\nnzKh/zcCgYALS95lt2KyA6yO/CUBkZQp6OztkJjBbkDutrrd1NYyO30TyXR6N7tn\nZfDXLeaiABWFYJK9rVAqEbYTLw07C5F7HbM4ScuTFFD41mzAF89LRw7Tbltrst6Z\nRyQEMf+MN0QI7Nr7Bh1ppzsWKz7IEN3RtYT3IcScZNg7DafwSHKH9QKBgQCQzRtn\n5aFsqe8TgK0RpMDafrILTRq35pz66MzZYwNuYPBjJyEI4lSJ18qoWsrpebEW74lH\nK4fLCsPLPsPA3DXylck0LrPiWtkDOl7rwu5wWtIXAF1Sk4OPfXoBLpL3mii8cQCN\nFPm8j/c80p1oHe1hJvzAYMNR6OyQWd3HNHBciQKBgQDff6UNVViQF8kfrT4iQeMs\nJwPzK/m4nuY0orspNTqN61GY074HuZ7PspLOIP+xwVPlB9l9sgY5KRh/FS8kSD+3\nzs3G/n9Lr662P2R0AkLy4yitWBThGXwQCIih6NxYHUSXuGwQccTwSkPhRK6GAQMe\n0k/ycAqDpHjcjhstX+A8jw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pertamina-iep@pertamina-piep.iam.gserviceaccount.com",
+  "client_id": "106745257094511631541",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pertamina-iep%40pertamina-piep.iam.gserviceaccount.com"
+}
